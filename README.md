@@ -1,10 +1,5 @@
 ![Texto alternativo](logo.png)
 
-## Sobre Mim
-
-Sou um recém-formado em Técnico em Desenvolvimento de Sistemas pelo SENAI - São José do Rio Preto e atualmente curso Ciência da Computação na Universidade Paulista. Possuo experiência prática no desenvolvimento de soluções tecnológicas. Meu conhecimento abrange tecnologias front-end e back-end, além de design UX/UI. Estou sempre em busca de aprimorar minhas habilidades e aprender mais sobre tecnologia da informação.
-
-
 ## Tecnologias e Ferramentas
 
 - **Linguagens de Programação**:
