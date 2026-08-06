@@ -7,10 +7,6 @@
 <h3 align="center">Desenvolvedor de Software | Estudante de Ciência da Computação</h3>
 
 <p align="center">
-  Apaixonado por tecnologia, sempre em busca de aprender mais e construir soluções que fazem a diferença.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/eduardo-esteves-martins/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
   </a>
@@ -32,15 +28,13 @@
 - 🎓 Estudante de Ciência da Computação
 - 🌱 Sempre aprendendo novas tecnologias e boas práticas
 - 🔭 Atualmente focado em **React**, **TypeScript** e **Node.js**
-- ⚡ Curioso por natureza — gosto de entender como as coisas funcionam por baixo do capô
-- 📫 Aberto a oportunidades e colaborações — me chama!
 
 ---
 
 ### 🛠️ Linguagens & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,mysql,git,github,vscode&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,mysql,git,github,vscode,docker,postgres,figma,insomnia,linux&theme=dark" alt="Skills"/>
 </p>
 
 <!--
@@ -66,20 +60,16 @@ docker, aws, mongodb, postgres, tailwind, nextjs, redux, figma, linux
 
 ### 📌 Projetos em destaque
 
-<!--
-Dica: liste aqui 2-4 projetos que mostrem seu nível técnico.
-Recrutadores geralmente olham os projetos fixados antes de qualquer outra coisa.
--->
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/NOME_DO_PROJETO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_PROJETO&theme=tokyonight&hide_border=true" alt="Projeto em destaque"/>
+  <a href="https://github.com/martins-eduardo/gallery-plus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=martins-eduardo&repo=gallery-plus&theme=tokyonight&hide_border=true" alt="Projeto em destaque"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=martins-eduardo&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
    
