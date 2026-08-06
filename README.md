@@ -1,14 +1,11 @@
 ![Banner](fundo.png)
 
-<h1 align="center">Olá, eu sou o Eduardo 👋</h1>
+<h1 align="center">Olá, eu sou o Eduardo</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack • Estudante de Ciência da Computação</strong>
 </p>
 
-<p align="center">
-  Apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender novas tecnologias e construir aplicações modernas, escaláveis e bem estruturadas.
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-esteves-martins">
@@ -32,7 +29,6 @@
 - 💼 Desenvolvedor Full Stack em formação
 - 🚀 Atualmente desenvolvendo aplicações com React, TypeScript e Node.js
 - 📚 Sempre estudando boas práticas, arquitetura de software e desenvolvimento moderno
-- 🎯 Em busca da minha primeira oportunidade efetiva como Desenvolvedor
 
 ---
 
@@ -59,7 +55,7 @@
 ### 🛠️ Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,insomnia,datagrip" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,insomnia,npm,yarn" />
 </p>
 
 ---
@@ -68,10 +64,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=martins-eduardo&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=martins-eduardo&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
