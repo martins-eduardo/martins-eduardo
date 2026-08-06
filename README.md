@@ -31,29 +31,35 @@
 
 ---
 
-### 🛠️ Linguagens & Ferramentas
-
+### 🛠️ Stack
+ 
+**Linguagens & Tecnologias**
+ 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,mysql,git,github,vscode,docker,postgres,figma,insomnia,linux&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,postgres,git,github,vscode,docker,figma,insomnia,linux,datagrip&theme=dark" alt="Tecnologias"/>
 </p>
-
+**Frameworks & Bibliotecas**
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,express,prisma&theme=dark" alt="Frameworks"/>
+</p>
 <!--
-Ícones disponíveis em https://skillicons.dev — troque a lista acima (parâmetro i=)
-por qualquer combinação de tecnologias que você usa. Alguns exemplos úteis:
-docker, aws, mongodb, postgres, tailwind, nextjs, redux, figma, linux
+Ícones disponíveis em https://skillicons.dev — edite a lista depois de i= em cada linha
+conforme sua stack real vai mudando.
 -->
-
+ 
 ---
+
 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=martins-eduardo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martins-eduardoO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martins-eduardo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
