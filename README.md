@@ -57,31 +57,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,npm,yarn,ubuntu,mint" />
 </p>
-
----
-
-# 📈 Contribuições
-
-<picture align="center">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/martins-eduardo/martins-eduardo/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/martins-eduardo/martins-eduardo/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    align="center"
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/martins-eduardo/martins-eduardo/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=martins-eduardo&style=for-the-badge&color=blueviolet"/>
-</p>
