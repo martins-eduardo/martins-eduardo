@@ -36,7 +36,7 @@
 
 ### 💻 Linguagens
 
-<p align="center">s
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 </p>
 
