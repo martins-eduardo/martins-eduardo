@@ -36,7 +36,7 @@
 
 ### 💻 Linguagens
 
-<p align="center">
+<p align="center">s
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 </p>
 
@@ -63,7 +63,7 @@
 # 📈 Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=martins-eduardo&theme=tokyo-night&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/martins-eduardo" alt="GitHub Contributions" />
 </p>
 
 ---
