@@ -62,9 +62,7 @@
 
 # 📈 Contribuições
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/martins-eduardo" alt="GitHub Contributions" />
-</p>
+<p align="center"> <img src="https://github-contribution-grid-svg.vercel.app/api?username=martins-eduardo&theme=dark" alt="GitHub Contributions" /> </p>
 
 ---
 
