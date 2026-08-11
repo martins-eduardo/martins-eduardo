@@ -62,7 +62,11 @@
 
 # 📈 Contribuições
 
-<p align="center"> <img src="https://github-contribution-grid-svg.vercel.app/api?username=martins-eduardo&theme=dark" alt="GitHub Contributions" /> </p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/martins-eduardo/martins-eduardo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/martins-eduardo/martins-eduardo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/martins-eduardo/martins-eduardo/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
